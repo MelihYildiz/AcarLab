@@ -52,10 +52,15 @@ subtitle = ""
 
 ## Welcome
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget magna enim. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Sed eget magna enim. 
+
+
 Donec sapien felis, suscipit vel metus vel, facilisis placerat ipsum. 
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
 Interdum et malesuada fames ac ante ipsum primis in faucibus. 
+
+
 Phasellus urna elit, semper nec massa a, scelerisque sollicitudin ex. 
 Duis fermentum sapien in libero pulvinar pretium.  
 Cras non mi hendrerit, vestibulum nulla et, lacinia nibh. 

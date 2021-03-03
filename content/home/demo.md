@@ -31,7 +31,7 @@ subtitle = ""
   # Background image.
   image = "organoid.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+   image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "right"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
@@ -52,7 +52,13 @@ subtitle = ""
 
 ## Welcome
 
-Lorem ipsum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget magna enim. 
+Donec sapien felis, suscipit vel metus vel, facilisis placerat ipsum. 
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+Interdum et malesuada fames ac ante ipsum primis in faucibus. 
+Phasellus urna elit, semper nec massa a, scelerisque sollicitudin ex. 
+Duis fermentum sapien in libero pulvinar pretium.  
+Cras non mi hendrerit, vestibulum nulla et, lacinia nibh. 
 
 
 

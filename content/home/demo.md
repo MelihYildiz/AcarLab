@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = " #99a3a4"
+  color = "#e5e8e8"
   
   # Background gradient.
   # gradient_start = "DarkGreen"

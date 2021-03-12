@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Drug Resistance and Cancer Evolution"
-subtitle = ""
+title = "ACAR LAB"
+subtitle = "Precision Medicine and Drug Resistance in Cancer"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,21 +50,14 @@ subtitle = ""
  css_class = ""
 +++
 
-## Welcome
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Sed eget magna enim. 
-
-
-Donec sapien felis, suscipit vel metus vel, facilisis placerat ipsum. 
-
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. 
-
-
-Phasellus urna elit, semper nec massa a, scelerisque sollicitudin ex. 
-Duis fermentum sapien in libero pulvinar pretium.  
-Cras non mi hendrerit, vestibulum nulla et, lacinia nibh. 
+Precision Medicine and Drug Resistance in Cancer Laboratory aims to understand the
+underlying mechanisms of drug resistance in cancer. Our goal is to study how cancers
+evolve and develop resistance to therapies. We are interested in developing quantitative
+2D/3D co-culture systems with stromal fibroblasts. We leverage single-cell barcoding and
+next-generation sequencing technologies to delineate actionable mechanisms mitigating
+drug resistance. To better address patient specific drug resistance, we generate ex vivo
+Patient-Derived Organoids (PDOs) as a preclinical model system.
 
 
 

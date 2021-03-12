@@ -8,12 +8,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "ACAR LAB"
-subtitle = "Precision Medicine and Drug Resistance in Cancer"
+title = "ACAR Laboratory for Precision Medicine and Drug Resistance in Cancer"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,7 +22,7 @@ subtitle = "Precision Medicine and Drug Resistance in Cancer"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#646536"
+  color = "#2F3E46"
   
   # Background gradient.
   # gradient_start = "DarkGreen"

@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -52,12 +52,16 @@ subtitle = ""
 
 
 Precision Medicine and Drug Resistance in Cancer Laboratory aims to understand the
-underlying mechanisms of drug resistance in cancer. Our goal is to study how cancers
-evolve and develop resistance to therapies. We are interested in developing quantitative
-2D/3D co-culture systems with stromal fibroblasts. We leverage single-cell barcoding and
-next-generation sequencing technologies to delineate actionable mechanisms mitigating
-drug resistance. To better address patient specific drug resistance, we generate ex vivo
-Patient-Derived Organoids (PDOs) as a preclinical model system.
+underlying mechanisms of drug resistance in cancer.
+
+Our goal is to study how cancers evolve and develop resistance to therapies. 
+
+We are interested in developing quantitative 2D/3D co-culture systems with stromal fibroblasts. 
+
+We leverage single-cell barcoding and next-generation sequencing technologies to delineate actionable mechanisms mitigating
+drug resistance. 
+
+To better address patient specific drug resistance, we generate ex vivo Patient-Derived Organoids (PDOs) as a preclinical model system.
 
 
 

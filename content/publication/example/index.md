@@ -28,7 +28,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Personalized Medicen
+publication: Journal of Personalized Medicine
 # publication_short: In *ICW*
 
 abstract: Over the past decade, we have witnessed an increasing number of large-scale studies that have provided multi-omics data by high-throughput sequencing approaches. This has particularly helped with identifying key (epi) genetic alterations in cancers. Importantly, aberrations that lead to the activation of signaling networks through the disruption of normal cellular homeostasis is seen both in cancer cells and also in the neighboring tumor microenvironment. Cancer systems biology approaches have enabled the efficient integration of experimental data with computational algorithms and the implementation of actionable targeted therapies, as the exceptions, for the treatment of cancer. Comprehensive multi-omics data obtained through the sequencing of tumor samples and experimental model systems will be important in implementing novel cancer systems biology approaches and increasing their efficacy for tailoring novel personalized treatment modalities in cancer. In this review, we discuss emerging cancer systems biology approaches based on multi-omics data derived from bulk and single-cell genomics studies in addition to existing experimental model systems that play a critical role in understanding (epi) genetic heterogeneity and therapy resistance in cancer.
@@ -55,12 +55,6 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -77,7 +71,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-
-
-# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

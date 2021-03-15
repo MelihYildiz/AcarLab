@@ -48,6 +48,11 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ div {
+  text-align: justify;
+  text-justify: inter-word;
+}
 +++
 
 
